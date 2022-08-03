@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm scionwin</h1>
+<h1 align="center">Hi, I'm scion</h1>
 <h3 align="center">A developer from Singapore working on python, java, C++, and C#</h3>
 
 
